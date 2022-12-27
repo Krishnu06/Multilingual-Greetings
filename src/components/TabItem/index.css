@@ -1,0 +1,31 @@
+.list-items {
+  list-style-type: none;
+}
+.button {
+  background-color: transparent;
+  border: 1px solid #db1c48;
+  padding: 8px;
+  text-align: center;
+  color: #db1c48;
+  font-size: 15px;
+  font-family: Roboto;
+  border-radius: 10px;
+  font-weight: 500;
+  width: 80px;
+  height: 35px;
+  margin: 30px;
+}
+.button1 {
+  background-color: #db1c48;
+  border: 1px solid #db1c48;
+  padding: 8px;
+  text-align: center;
+  color: #ffffff;
+  font-size: 15px;
+  font-family: Roboto;
+  border-radius: 10px;
+  font-weight: 500;
+  width: 80px;
+  height: 35px;
+  margin: 30px;
+}

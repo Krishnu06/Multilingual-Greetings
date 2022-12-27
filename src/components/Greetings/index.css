@@ -1,0 +1,45 @@
+.main-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+  height: 100vh;
+}
+.list-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-left: 0px;
+  margin-left: 0px;
+}
+.image {
+  width: 20%;
+}
+.main-container1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.image-card {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 50px;
+}
+.heading {
+  font-size: 40px;
+  font-family: Roboto;
+  margin-bottom: 0px;
+}
+@media (max-width: 550px) {
+  .heading {
+    font-size: 30px;
+    font-family: Roboto;
+    margin-bottom: 0px;
+  }
+  .image {
+    width: 50%;
+  }
+}
